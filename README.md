@@ -10,7 +10,7 @@ Just run app.py in cmd
 
 I am using VeraCrypt to encrypt my backup drive
 
-This script would only work on Windows as right now
+This script would only work on Windows as of right now
 
 
 
