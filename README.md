@@ -4,7 +4,11 @@ Small script for keeping my image backup in order
 
 ## Getting Started
 
-Just run app.py in cmd
+```bash
+git clone https://github.com/alexfrostdesu/ImageCopy.git
+pip install -r requirements.txt
+python app.py
+```
 
 ### Prerequisites
 
@@ -16,7 +20,7 @@ This script would only work on Windows as of right now
 
 ## Authors
 
-* **Matvey Loshakov** - *All the work* - [alexfrostdesu](https://github.com/alexfrostdesu)
+* **Matvey Loshakov** - *All the work* - [GitHub](https://github.com/alexfrostdesu) or [E-Mail](mailto:matveyloshakov@gmail.com)
 
 ## License
 
